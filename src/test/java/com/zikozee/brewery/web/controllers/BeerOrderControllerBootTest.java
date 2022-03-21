@@ -32,7 +32,7 @@ import static org.hamcrest.core.Is.is;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
 
 @WebMvcTest(BeerOrderController.class)
-class BeerOrderControllerTest {
+class BeerOrderControllerBootTest {
 
     @MockBean
     BeerOrderService beerOrderService;
