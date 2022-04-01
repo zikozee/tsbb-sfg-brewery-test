@@ -15,3 +15,7 @@
   ```
 - test **PageImpl** (see com.zikozee.brewery.web.model.BeerPagedList, BeerControllerIT)
 - test **PageImpl** (see com.zikozee.brewery.web.model.BeerOrderPagedList, BeerOrderControllerIT)
+
+- learnt how to use WIREMOCK Recording - requires starting up wiremock server
+
+- using wiremock for an endpoint while testing  - requires wiremock dependency

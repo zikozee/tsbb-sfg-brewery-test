@@ -86,7 +86,7 @@ class BeerOrderControllerBootTest {
     }
 
 
-    @DisplayName("Lis Opst")
+    @DisplayName("List Ops")
     @Nested
     class TestListOperation {
 
